@@ -4,4 +4,5 @@ Build instructions:
 - run 'cd build'
 - run 'cmnake ..'
 - run './main'
+
 Project requires at least C++20
